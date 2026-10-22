@@ -7,8 +7,6 @@ Provide a concise summary of the changes in this PR:
 - What approaches were considered?
 - Any other related PRs or background?
 
----
-
 ## References
 Link the corresponding Jira ticket(s) here
 Ticket(s) should preferably be on [Backend Board](https://aitastic.atlassian.net/jira/software/c/projects/BE/boards/8)
@@ -19,8 +17,6 @@ Example:
 - [BE-XXX : Title](https://aitastic.atlassian.net/browse/BE-XXX)
 - [PR #XXX : Title](https://github.com/aitastic/repo/pull/XXX)
 
----
-
 ## Change Types
 Please tick the relevant option(s):
 - [ ] Bug fix
@@ -28,8 +24,6 @@ Please tick the relevant option(s):
 - [ ] Refactor
 - [ ] Tests
 - [ ] Documentation update
-
----
 
 ## Checklist
 ### General Guidelines
@@ -52,8 +46,6 @@ Please tick the relevant option(s):
 ### Organizational Requirements
 - [ ] PR must be linked to a Jira ticket
 - [ ] Jira ticket must specify whether it's a **bug fix** or a **feature**
-
----
 
 ## Additional Notes
 Any other information reviewers should be aware of
