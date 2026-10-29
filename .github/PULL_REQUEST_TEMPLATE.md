@@ -24,6 +24,7 @@ Please tick the relevant option(s):
 - [ ] Refactor
 - [ ] Tests
 - [ ] Documentation update
+- [ ] Application upgrade/Security patch
 
 ## Checklist
 ### General Guidelines
