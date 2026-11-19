@@ -1,8 +1,7 @@
 
 <details>
-<summary>Checklist and Additional Notes</summary>
+<summary>PR Checklist</summary>
 
-## Checklist
 ### General Guidelines
 - [ ] Provide a concise summary of the changes in this PR:
   - What does this PR do?
@@ -29,8 +28,5 @@
 ### Organizational Requirements
 - [ ] PR must be linked to a Jira ticket
 - [ ] Jira ticket must specify whether it's a **bug fix** or a **feature**
-
-## Additional Notes
-Any other information reviewers should be aware of
 
 </details>
