@@ -17,13 +17,8 @@ Example:
 - [BE-XXX : Title](https://aitastic.atlassian.net/browse/BE-XXX)
 - [PR #XXX : Title](https://github.com/aitastic/repo/pull/XXX)
 
-## Change Types
-Please tick the relevant option(s):
-- [ ] Bug fix
-- [ ] New/Removed feature
-- [ ] Refactor
-- [ ] Tests
-- [ ] Documentation update
+<details>
+<summary>Checklist and Additional Notes</summary>
 
 ## Checklist
 ### General Guidelines
@@ -49,3 +44,5 @@ Please tick the relevant option(s):
 
 ## Additional Notes
 Any other information reviewers should be aware of
+
+</details>
