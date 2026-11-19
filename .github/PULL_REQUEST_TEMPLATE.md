@@ -1,27 +1,15 @@
-## Description
-
-Provide a concise summary of the changes in this PR:
-- What does this PR do?
-- Why is this change needed?
-- How do the changes work?
-- What approaches were considered?
-- Any other related PRs or background?
-
-## References
-Link the corresponding Jira ticket(s) here
-Ticket(s) should preferably be on [Backend Board](https://aitastic.atlassian.net/jira/software/c/projects/BE/boards/8)
-
-If there are any related PRs, then they should also be linked here.
-
-Example:
-- [BE-XXX : Title](https://aitastic.atlassian.net/browse/BE-XXX)
-- [PR #XXX : Title](https://github.com/aitastic/repo/pull/XXX)
 
 <details>
 <summary>Checklist and Additional Notes</summary>
 
 ## Checklist
 ### General Guidelines
+- [ ] Provide a concise summary of the changes in this PR:
+  - What does this PR do?
+  - Why is this change needed?
+  - How do the changes work?
+  - What approaches were considered?
+  - Any other related PRs or background?
 - [ ] Did you add labels? At least one of the following labels should be set:
   - bug 💥 
   - feature 🛠️
